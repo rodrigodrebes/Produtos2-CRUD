@@ -26,7 +26,7 @@ O arquivo `rotas.py` contém as rotas da API e suas funções correspondentes. A
 
 ### Client
 
-O arquivo `client.py` é um exemplo de cliente Python que utiliza a biblioteca `requests` para interagir com a API.
+O arquivo `client.py` é um exemplo de cliente Python que utiliza a biblioteca `requests` para interagir com a API. Você pode utilizar o Postman, se preferir, a partir das rotas.
 
 ### main.py
 
